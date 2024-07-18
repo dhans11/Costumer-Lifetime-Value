@@ -1,5 +1,3 @@
-# Customer Lifetime Value
-
 🚩 Project Name: Costumer Lifetime Value Prediction Regression
 🙋🏻‍♂️ Project Owner: Ahmad Dani Rifai  
 🏁 Date Finished: Juni 2023  
