@@ -4,7 +4,7 @@
 🏁 Date Finished: Juni 2023  
 📞 Contact: [LinkedIn](https://www.linkedin.com/in/ahmad-dhani-0b8b6a22b/); [E-mail](adhani866@gmail.com)
 
-### **1. Business Problem Understanding**
+### **Business Problem Understanding**
 
 **Context**
 
